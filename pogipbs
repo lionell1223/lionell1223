@@ -133,7 +133,7 @@
 
 
 
-function setValues(address, flags, value) gg.setValues({[1] = {address = address, flags = flags, value = value}}) end
+
 function setValues(address, flags, value) gg.setValues({[1] = {address = address, flags = flags, value = value}}) end
 gg.alert("☄︎𝙷𝙴𝙻𝙻𝙾 𝚆𝙾𝚁𝙻𝙳!☄︎")
 gg.clearList()
